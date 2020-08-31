@@ -46,6 +46,7 @@
     "@overnightjs/core": "^1.7.4",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
+    "module-alias": "^2.2.2",
     "mongoose": "^5.10.2",
     "ts-node": "^9.0.0"
   }
